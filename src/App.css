@@ -1,0 +1,51 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+main{
+  padding:20px;
+}
+main{
+  margin-top:40px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap:20px;
+}
+.Box{
+  padding:15px;
+  display: flex;
+  gap:10px;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.button{
+  padding: 20px;
+  font-size: 23px;
+  margin-right: 15px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: black
+}
+#green{
+  background-color: green;
+}
+#red{
+  background-color: red;
+}
+#blue{
+  background-color: blue;
+}
+#white{
+  background-color: white;
+}
+#yellow{
+  background-color: yellow;
+}
+h1{
+  margin-bottom: 15px;
+}
